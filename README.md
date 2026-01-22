@@ -13,6 +13,16 @@
 This lab focuses on customizing a `ListView` using a custom layout and adapter, and using a `DialogFragment` to allow users to add and edit cities dynamically. Each city entry displays both the city name and its province. The application also supports deleting selected cities and provides a clean, user-friendly interface.
 
 ---
+<img width="342" height="751" alt="Screenshot 2026-01-22 at 1 45 19 AM" src="https://github.com/user-attachments/assets/5ae8b3d2-920a-4c8f-9143-e0eb058856a6" />
+---
+<img width="342" height="751" alt="Screenshot 2026-01-22 at 1 45 39 AM" src="https://github.com/user-attachments/assets/ef8ae6c8-52df-4677-b9ed-106fb6580e69" />
+
+<img width="342" height="751" alt="Screenshot 2026-01-22 at 1 45 55 AM" src="https://github.com/user-attachments/assets/3b452788-5d5d-4ce0-93d5-c7ff519cbda5" />
+---
+<img width="342" height="751" alt="Screenshot 2026-01-22 at 1 46 10 AM" src="https://github.com/user-attachments/assets/35cbc74f-f90b-4961-9020-69192915770c" />
+
+<img width="342" height="751" alt="Screenshot 2026-01-22 at 1 46 33 AM" src="https://github.com/user-attachments/assets/0997816a-03e5-402e-ad82-c37627cef6d9" />
+
 
 ## Repository Structure and File Overview
 
